@@ -1,0 +1,12 @@
+body
+{
+	font-family: "Pacifico";
+	background-color: #CDE;
+	margin:auto;
+	text-align:center;
+}
+
+input:focus{
+	border-top-color: blue;
+	border-bottom-color: blue;
+}
